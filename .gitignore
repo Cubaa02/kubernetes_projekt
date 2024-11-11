@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+_pycache_/
+
+venv/
+env/
+.env/
+.venv/
+
+flaskapp.lo
